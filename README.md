@@ -25,22 +25,6 @@ Cuenta con dos partes :
 
 # Resultados y Conclusiones:
 
-### Determinación Teórica:
-
-omo en el sistema son 100 personas o menos:
-
-$\Rightarrow$ P (101 o más clientes en el sistema) = $\sum_{i = 101}^{\infty}(1-\rho )\cdot \rho ^{i}$
-
-Con $\rho = \frac{\lambda }{ s\cdot \nu } = \frac{7}{s\cdot 0,25} = \frac{28}{s}$
-
-Para un 95% de tiempo (0,05)
-
-$\Rightarrow$  P (101 o más clientes en el sistema) $\leq 0,05$
-
-$\Rightarrow$ $\sum_{i = 101}^{\infty}(1-\rho )\cdot \rho ^{i} = \sum_{i = 101}^{\infty}(1-\frac{28}{s} )\cdot (\frac{28}{s}) ^{i}\leq 0,05$
-
-= $\sum_{i = 101}^{\infty}(1-\frac{28}{s} )\cdot (\frac{28}{s}) ^{i}\leq 0,05$
-
 ### Primera simulación:
 
 ![image](https://user-images.githubusercontent.com/22760012/127784387-fd52bcfc-0ce1-4cc3-bd2b-72dea0c06321.png)
