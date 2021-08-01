@@ -15,7 +15,7 @@
 
 
 # Resumen 
-El presente proyecto consiste en analizar los procesos M/M/s. eL caso especial de los procesos aleatorios donde existen "estados" y "transiciones" entre estos estados, las cadenas de Markov modelan las probabilidades de transición y el tiempo de permanencia entre cada estado. En particular, la teoría de colas describe la evolución del número de elementos en la fila, dado un flujo de entrada y un flujo de salida.
+El presente proyecto consiste en analizar los procesos M/M/s, el caso especial de los procesos aleatorios donde existen "estados" y "transiciones" entre estos estados, las cadenas de Markov modelan las probabilidades de transición y el tiempo de permanencia entre cada estado. En particular, la teoría de colas describe la evolución del número de elementos en la fila, dado un flujo de entrada y un flujo de salida.
 
 # Asignaciones
 El proyecto se basa en conocer el número de servidores necesarios para un proceso de vacunación de manera que el sistema no exceda las 100 personas en la fila el 95% del tiempo de servicio.
